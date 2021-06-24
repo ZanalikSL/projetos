@@ -82,7 +82,7 @@ export function Room() {
             <span>
               {questions.length}{" "}
               {questions.length <= 1 ? (
-                <span>Pegunta</span>
+                <span>Pergunta</span>
               ) : (
                 <span>Perguntas</span>
               )}
