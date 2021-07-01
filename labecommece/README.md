@@ -1,7 +1,3 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/ZanalikSL/projetos?style=flat-square) 
-
-![GitHub language count](https://img.shields.io/github/languages/count/ZanalikSL/projetos?style=flat-square)
-
 # Labecommece 
 
 Site completo de um e-commerce onde temos 3 grandes partes: 
