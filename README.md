@@ -1,2 +1,13 @@
-# Projetos
-Esse repositório tem o intuito de reunir projetos de cursos e bootcamps.
+![GitHub last commit](https://img.shields.io/github/last-commit/ZanalikSL/projetos?style=flat-square) 
+
+![GitHub language count](https://img.shields.io/github/languages/count/ZanalikSL/projetos?style=flat-square)
+
+# Meus projetos
+
+Esse repositório tem o intuito de reunir projetos de cursos e bootcamps. 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
