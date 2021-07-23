@@ -8,6 +8,16 @@ The application has two screens. Upon entering our application, the user is able
 
 The second screen is made up of a list of users who "corresponded" with the user who is using one of our application. They were defined as photos and profile names. Finally, the user can clear the information of the matches they gave at any time on the second screen of the website pressing the clear button at the botton of the second screen.
 
+// Potuguese
+
+O objetivo do projeto Astromatch era criar um aplicativo semelhante ao Tinder. Foi construído com React, JavaScript e styled components.
+
+Este foi um projeto de 2 semanas construído durante o módulo de Advanced React and Hooks no Labenu FrontEnd Curse. Os objetivos do projeto incluíam o uso de tecnologias aprendidas até este ponto e me familiarizar com chamadas de API e Hooks useState e useEffect.
+
+O aplicativo possui duas telas. Ao entrar em nosso aplicativo, o usuário pode ver uma opção de perfil para escolher. A foto, o nome e a descrição dos perfis são mostrados. Dois botões estão na tela: um que permite "combinar" (uma escolha "positiva") e outro que permite descartar a sugestão (uma escolha "negativa"). Finalmente, há um botão na parte superior que leva você para a tela de partidas.
+
+A segunda tela é composta por uma lista de usuários que "se corresponderam" com o usuário que está utilizando um de nossos aplicativos. Eles foram definidos como fotos e nomes de perfil. Finalmente, o usuário pode apagar as informações das partidas que deu a qualquer momento na segunda tela do site pressionando o botão limpar na parte inferior da segunda tela.
+
 [Surge Link](https://useful-soda.surge.sh/)
 
 ## Project Screen Shots
@@ -26,7 +36,6 @@ The second screen is made up of a list of users who "corresponded" with the user
 
 ## Installation and Setup Instructions
 
-
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
 Installation:
@@ -35,6 +44,7 @@ Installation:
 $ git clone https://github.com/ZanalikSL/projetos.git
 $ cd astromatch
 ```
+
 ## Use
 
 ```bash
