@@ -53,4 +53,6 @@ To Run Test Suite:
 
 - The clear option sometimes dont work. Fix that
 
+## License
 
+[MIT](https://choosealicense.com/licenses/mit/)
