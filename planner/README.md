@@ -42,3 +42,7 @@ $ yarn start
 Esse projeto comsome > [API](https://documenter.getpostman.com/view/7549981/SW7aXnRm?version=latest). 
 
 A parte mais complicada foi a estilização com o Material-UI, sendo a renderização da lista o mais dificil dos componentes.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
