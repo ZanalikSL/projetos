@@ -1,4 +1,7 @@
-# letmeask
+ ![PikPng com_pokemon-go-logo-png_319697](https://user-images.githubusercontent.com/71197933/127230941-87680549-a152-4838-8204-fbebec6bde13.png)
+
+
+# Pokedex
 
 A Pokedex é uma aplicação desenvolvida em React com integração de API. A página inicial mostra uma lista de Pokemons e permite que o usuário adicione ou remova os Pokemons escolhidos de sua Pokedex. Também é possível ver detalhes de cada Pokemon. 
 
